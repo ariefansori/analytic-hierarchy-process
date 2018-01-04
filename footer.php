@@ -6,7 +6,6 @@
 
 <script src="js/jquery-3.2.1.js"></script>
 <script src="semantic/dist/semantic.min.js"></script>
-
 <script type="text/javascript">
 	$('.ui.radio.checkbox')
 		.checkbox()
