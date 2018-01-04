@@ -1,7 +1,7 @@
 </div> <!-- /wrapper -->
 
 <footer>
-	<p>Copyright 2018</p>
+	<p>Copyright &copy; <?php echo date("Y"); ?></p>
 </footer>
 
 
