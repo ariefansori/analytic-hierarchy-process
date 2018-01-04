@@ -6,3 +6,4 @@ Aplikasi sederhana sistem pendukung keputusan dengan metode AHP
 - edit file config.php
 - import database/database.sql into your new database
 - run your website
+- voila
