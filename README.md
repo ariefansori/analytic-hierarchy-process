@@ -9,8 +9,8 @@ Simple decision support system application with AHP method.
 
 ## Screenshot
 
-![halaman kriteria](screenshot/1.png)
+<img src="screenshot/1.png" alt="halaman kriteria" style="width: 250px;"/>
 
-![matriks nilai kriteria](screenshot/2.png)
+<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 250px;"/>
 
-![hasil perhitungan](screenshot/3.png)
+<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 250px;"/>
